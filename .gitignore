@@ -1,1 +1,7 @@
 snapraid-runner.conf
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore snapraid logs (snapraid.log, snapraid.log.1, snapraid.log.2, ...)
+snapraid.log*
